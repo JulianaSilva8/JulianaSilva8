@@ -8,19 +8,36 @@ Hey! I'm currently studying Software Engineering at University of Minho. I'm pas
 <div style="display: flex; flex-direction: column;">
   <div>
     <a href="https://github.com/JulianaSilva8">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaSilva8&layout=compact&theme=tokyonight&langs_count=16"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaSilva8&layout=compact&theme=cobalt&langs_count=16"/>
     </a>
   </div>
-  
+</div>
+
 #
 
 ### 🛠️ Skills
-  <div>
-    <img align="center" alt="Juliana-HTML" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Juliana-CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Juliana-C" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-    <img align="center" alt="Juliana-Haskell" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg">
-  </div>
+#### Programming Languages:
+<div>
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML">
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS">
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C">
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell">
+</div>
+
+#### Databases:
+<div>
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQlite">
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql">
+</div>
+
+#### Dev Tools:
+<div>
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux">
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git">
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode">
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab">
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm">
+  
 </div>
 
 #
