@@ -8,16 +8,18 @@ Hey! I'm currently studying Software Engineering at University of Minho. I'm pas
 <div style="display: flex; flex-direction: column;">
   <div>
     <a href="https://github.com/JulianaSilva8">
-      <img src="https://github-readme-stats.vercel.app/api?username=JulianaSilva8&show_icons=true&theme=tokyonight"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaSilva8&layout=compact&theme=tokyonight&langs_count=16"/>
     </a>
   </div>
+  
+#
 
+### 🛠️ Skills
   <div>
-    <img align="center" alt="Juliana-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Juliana-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Juliana-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-    <img align="center" alt="Juliana-Haskell" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg">
+    <img align="center" alt="Juliana-HTML" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Juliana-CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Juliana-C" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img align="center" alt="Juliana-Haskell" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg">
   </div>
 </div>
 
