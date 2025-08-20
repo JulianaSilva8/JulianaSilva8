@@ -16,28 +16,20 @@ Hey! I'm currently studying Software Engineering at University of Minho. I'm pas
 #
 
 ### 🛠️ Skills
-#### Programming Languages:
+#### Languages and Tools:
 <div>
     <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML">
     <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS">
     <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C">
     <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell">
-</div>
-
-#### Databases:
-<div>
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js">
+    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS">
     <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQlite">
     <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql">
-</div>
-
-#### Dev Tools:
-<div>
     <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux">
     <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git">
     <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode">
-    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab">
     <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm">
-  
 </div>
 
 #
